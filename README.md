@@ -1,7 +1,7 @@
 INSTALLATION
 Prerequisites Required
 
-PHP 7.4
+PHP 8.0.2 or greater
 MySQL 5.7 and above
 Clone the repository and run the following command
 
