@@ -20,7 +20,7 @@
 <ol start="4" dir="auto">
 <li>Run the Seeders</li>
 </ol>
-<p dir="auto"><code>php artisan db:seed ProductsSeeder</code></p>
+<p dir="auto"><code>php artisan db:seed ProductsTableSeeder</code></p>
 <p dir="auto">Update the <code>APP_URL</code> in the <code>.env</code> file as <a href="http://127.0.0.1:8000" rel="nofollow">http://127.0.0.1:8000</a></p>
 <p dir="auto">Run the application using the following command</p>
 <p dir="auto"><code>php artisan serve</code></p>
