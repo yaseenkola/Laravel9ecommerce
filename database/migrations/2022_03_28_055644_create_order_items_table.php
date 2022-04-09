@@ -21,7 +21,6 @@ return new class extends Migration
             $table->decimal('product_price', 8, 2);
             $table->string('product_image');
             $table->integer('product_quantity');
-            $table->date('order_date');
             $table->timestamps();
         });
     }
